@@ -4,6 +4,6 @@ submitted in fulfilment of the requirement for the degree of Master of Philosoph
 
 Folder structure: The main folders are organized by the relevant topics of the Thesis, with self-explanatory names. Each subfolder contains the MATLAB code as well as the corresponding figures produced by the code (if applicable). 
 
-Author: Giuseppe Pilagatti Jordao
-Principal supervisor: Matthew J Simpson
+Author: Giuseppe Pilagatti Jordao \\
+Principal supervisor: Matthew J Simpson \\
 Co-supervisor: James McGree
